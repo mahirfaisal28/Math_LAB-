@@ -1,0 +1,70 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="950143480" file="C:\Users\Mahir\Desktop\APP DESIGN\MATHLAB.prj" location="C:\Users\Mahir\Desktop\APP DESIGN" name="MATHLAB" target="target.mlapps" target-name="Package App">
+    <param.appname>MATHLAB</param.appname>
+    <param.authnamewatermark>Md Mahir Faisal</param.authnamewatermark>
+    <param.email>cyberwave.mahir@gmail.com</param.email>
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description>This is a mathematics operation based application. Here users can perform different calculas and Laplace problems by using different solution methods.
+
+Presented By:
+
+Project Group:4
+ID:                         Name
+20200105229 ---- Mostofa Ashik
+20200105231------Emtiaz Uddin
+20200105232------Tahnia Oqba
+20200105233------Md Mahir Faisal</param.description>
+    <param.screenshot>C:\Users\Mahir\AppData\Local\Temp\tpec17351f_a031_4e16_8cfa_e1e1b9ca5a82.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>4a8ce38a-db72-4fb2-a026-3eedd297dd53</param.guid>
+    <unset>
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\MATHLAB.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\Mahir\Desktop" name="APP DESIGN" optional="false">C:\Users\Mahir\Desktop\APP DESIGN</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\Polyspace\R2019a</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
