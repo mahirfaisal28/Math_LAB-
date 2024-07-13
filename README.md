@@ -1,1 +1,2 @@
-
+This is a GUI application created with MATLAB's App Designer, enabling users to perform symbolic mathematical operations based on their selection from a drop-down menu. The options include differentiation, integration, Laplace transforms, and inverse Laplace transforms. Depending on the user's choice, the code retrieves the function and parameters from the app's input fields, performs the specified operation using symbolic computation, and displays the result within the app. If the selection is invalid, an error message is shown. This functionality allows users to easily compute and visualize results of various symbolic operations directly within the app interface.# Math_LAB-
+Matlab based application.
